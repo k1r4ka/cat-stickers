@@ -9,3 +9,5 @@
 # Скриншот
 А вот и скриншот проекта : 
 ![screenshot](screenshot.png)
+
+Ссылка на [проект](https://k1r4ka.github.io/cat-stickers/).
